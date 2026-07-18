@@ -1,0 +1,17 @@
+# Data
+data/raw/
+data/processed/
+
+# Report outputs (regenerated on run)
+report/figures/
+report/*.csv
+report/*.txt
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
